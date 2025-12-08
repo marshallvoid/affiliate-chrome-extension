@@ -1,10 +1,10 @@
-# Tiktok Affiliate Crawler
+# Affiliate Chrome Extension
 
 A Chrome extension for crawling affiliate data.
 
 ## Download
 
-You can download the latest version of the extension from the [Releases](https://github.com/hdevlinz/tiktok-affiliate-crawler/releases) page.
+You can download the latest version of the extension from the [Releases](https://github.com/deviquee/affiliate-chrome-extension/releases) page.
 
 > [!NOTE]
 > Make sure to download the correct version for your browser and follow the installation instructions provided.
