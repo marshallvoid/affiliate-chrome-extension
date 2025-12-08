@@ -1,3 +1,10 @@
+## [1.6.6](https://github.com/marshallvoid/affiliate-chrome-extension/compare/v1.6.5...v1.6.6) (2025-12-08)
+
+### 🛠 Miscellaneous Chores
+
+* update favicon assets and package manager version ([67f28cd](https://github.com/marshallvoid/affiliate-chrome-extension/commit/67f28cd67a7145ca96cf3a773e7f97a6c29f3179))
+* update README.md ([326fc42](https://github.com/marshallvoid/affiliate-chrome-extension/commit/326fc420509baa6bafeeeeedc6d1b1de263d0855))
+
 ## [1.6.5](https://github.com/hdevlinz/tiktok-affiliate-crawler/compare/v1.6.4...v1.6.5) (2025-05-06)
 
 ### 🐛 Bug Fixes
